@@ -2,7 +2,7 @@
 
 ### About me
 
-i'm 24 years old student from Poland. In my spare time, I create websites and practice my frontend skills. I am truly in love with css ❤️ I'm still learning and discovering new technologies.
+I'm 24 years old student from Poland. In my spare time, I create websites and practice my frontend skills. I am truly in love with css ❤️ I'm still learning and discovering new technologies.
 
 ### Technologies
 
